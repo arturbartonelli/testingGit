@@ -1,2 +1,2 @@
-# firstsite
-My first site and i'm testing features
+# testingGit
+I'm just testing some git features
